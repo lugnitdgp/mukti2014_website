@@ -1,0 +1,57 @@
+13c13
+< 	<title>Mukti '14</title>
+---
+> 	<title>Synergy - Responsive and Interactive HTML Portfolio</title>
+14a15,16
+> 	<meta name="description" content="" />
+> 	<meta name="author" content="MEDIACREED.COM" />
+71,73c73,75
+<             <div id="template-logo" class="template-logo" data-href="#home_layout_2.html"></div> 
+<             <div id="template-menu" class="template-menu" data-current-module-type="slideshow" data-side="none" data-href="##home_layout_1.html"><!-- start #template-menu -->
+<                 <div class="menu-option-holder" data-module-type="slideshow" data-side="none">
+---
+>             <div id="template-logo" class="template-logo" data-href="#portfolio.html"></div> 
+>             <div id="template-menu" class="template-menu" data-current-module-type="full_width_gallery" data-side="none" data-href="#portfolio.html"><!-- start #template-menu -->
+>                 <div class="menu-option-holder">
+76,77c78,79
+<                         <a href="#home_layout_1.html" data-path-href="html/home/">HOME</a>
+<                         
+---
+>                         <a href="#">HOME</a>
+>                         <div class="menu-option-sign">+</div>
+79c81,95
+<     
+---
+>                     <div class="sub-menu-holder">
+>                         <div class="sub-menu-option-holder" data-module-type="slideshow" data-side="none">
+>                             <div class="sub-menu-option-background"></div>
+>                             <div class="sub-menu-option-text"><a href="#home_layout_1.html" data-path-href="html/home/">Home Layout 1</a></div>
+>                         </div>
+>                         <div class="sub-menu-option-holder" data-module-type="home2" data-side="none">
+>                             <div class="sub-menu-option-background"></div>
+>                             <div class="sub-menu-option-text"><a href="#home_layout_2.html" data-path-href="html/home/">Home Layout 2</a></div>
+>                         </div>
+>                         <div class="sub-menu-option-holder" data-module-type="home3" data-side="none">
+>                             <div class="sub-menu-option-background"> </div>
+>                             <div class="sub-menu-option-text"><a href="#home_layout_3.html" data-path-href="html/home/">Home Layout 3</a></div>
+>                         </div>
+>                         
+>                     </div>         
+108c124
+<                     <div id="menu-option-text" class="menu-option-text"><a href="#news.html" data-path-href="html/news/">NEWS</a></div>
+---
+>                     <div id="menu-option-text" class="menu-option-text"><a href="#news.html" data-path-href="html/news/">LIGHTNING TALKS</a></div>
+140c156
+<                         <div class="sub-menu-option-holder" data-module-type="full_width_gallery" data-side="none">
+---
+>                         <div class="sub-menu-option-holder" data-module-type="gallery" data-side="none">
+189c205
+<                     <option value="#news.html"> NEWS</option>
+---
+>                     <option value="#news.html"> LIGHTNING TALKS</option>
+206a223
+> 			
+222c239
+< 					<div id="footer-copyright1"><a target="_blank" href="http://lug.nitdgp.ac.in">GLUG 2014</a>
+---
+> 					<div id="footer-copyright1"><a href="http://lug.nitdgp.ac.in">GLUG 2014</a>
